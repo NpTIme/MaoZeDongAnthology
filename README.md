@@ -8,5 +8,7 @@
 * 七卷：[![github](https://img.shields.io/badge/Progress-2%2F83-red)](https://github.com/SomeyaMako/Selected-Works-of-Mao-Zedong-JingHuo-version/tree/main/007-%E7%AC%AC%E4%B8%83%E5%8D%B7%20%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD%E6%97%B6%E6%9C%9F)
 
 此版本更改了部分排版, 使其更适合使用 markdown 编辑器阅读 (比如我用的 Obsidian)
-后续可能会补全六七卷的内容
-尽请期待
+
+为六七卷"静火版"做了补全, 现在目录的顺序还未作调整, 后续计划再做更正
+
+这里提供分开的版本和七卷合并的版本, 以及原始 ePub 版本, 望各位学习愉快
